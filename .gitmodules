@@ -1,0 +1,21 @@
+[submodule "ruby/octokit.rb"]
+	path = ruby/octokit.rb
+	url = https://github.com/octokit/octokit.rb.git
+[submodule "dotnet/octokit.net"]
+	path = dotnet/octokit.net
+	url = https://github.com/octokit/octokit.net.git
+[submodule "go/go-octokit"]
+	path = go/go-octokit
+	url = https://github.com/octokit/go-octokit.git
+[submodule "objc/octokit.objc"]
+	path = objc/octokit.objc
+	url = https://github.com/octokit/octokit.objc.git
+[submodule "go/go-github"]
+	path = go/go-github
+	url = https://github.com/google/go-github.git
+[submodule "php/github-php-client"]
+	path = php/github-php-client
+	url = https://github.com/tan-tan-kanarek/github-php-client.git
+[submodule "php/php-github-api"]
+	path = php/php-github-api
+	url = https://github.com/KnpLabs/php-github-api.git
